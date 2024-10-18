@@ -57,6 +57,7 @@ Console.WriteLine($"{sa.Min():F3}");
 Console.WriteLine("Максимальное значение:");
 Console.WriteLine($"{sa.Max():F3}");
 //Console.WriteLine($"{list.Max():F3}");
+//Console.WriteLine($"{list.Max():F3}");
 Console.WriteLine("Количество точек:");
 Console.WriteLine(v);
 Console.WriteLine("Количество раз когда функция меняет знак");
